@@ -1,0 +1,52 @@
+*{
+   margin: 0;
+   padding: 0;
+}
+header{
+    background-color: rgb(233, 9, 9);
+}
+h1{
+    text-align: center;
+    padding: 10px;
+    background-color: rgba(0, 0, 0, 0.2);
+    
+}
+ul{
+    list-style: none;
+    text-align: center;
+}
+a{
+    text-decoration: none;
+    color: black;
+    transition: 0.5s;
+}
+li{
+
+    display: inline-block;
+    padding: 5px 20px;
+}
+a:hover{
+    color: aqua;
+    transition: 0.3s;
+}
+.box{
+    display:inline-block ;
+    height:20px ;
+    width:20px ;
+    background-color: ;
+}
+h2{
+    padding: auto;
+}
+.photo>img{
+    width:100%;
+}
+.title{
+    padding:5 px ;
+}
+footer{
+    background-color:rgb(158,200,237) ;
+    padding: 30px;
+    font-size:20px ;
+text-align: center;
+}
